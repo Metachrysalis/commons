@@ -27,3 +27,15 @@ https://github.com/Metachrysalis/creators-commons
 **People participate in the Commons. Organizations sustain it.**
 
 Money may support participation in the Commons, but it does not purchase control over the Commons.
+
+## Governance
+
+The Metachrysalis Commons distinguishes between **Participating Members** and **Voting Members**.
+
+Players and Creators are Participating Members with meaningful rights to participate, contribute, propose, discuss, and benefit from the Commons.
+
+Formal governance decisions are made by Voting Members.
+
+Metachrysalis presently has one permanent Founding Voting Membership. Additional Voting Members may be appointed for fixed one-year terms.
+
+See `GOVERNANCE.md` and `VOTING-MEMBERS.md`.

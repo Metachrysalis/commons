@@ -47,3 +47,16 @@ A fork should replace Metachrysalis-specific names and links.
 Use of this framework does not imply endorsement by or affiliation with Metachrysalis.
 
 Communities are encouraged to preserve a visible record of how their Commons rules evolve over time.
+
+A community should determine:
+
+* whether it distinguishes Participating Members from Voting Members;
+* how Voting Members are appointed or elected;
+* whether Voting Membership is permanent or term-limited;
+* decision thresholds and quorum;
+* removal procedures;
+* whether particular governance rights are protected;
+* delegation rules; and
+* succession arrangements.
+
+The official Metachrysalis Commons uses a permanent Founding Voting Member together with optional one-year Appointed Voting Members. Independent Commons are not required to use that model.

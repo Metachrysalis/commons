@@ -14,7 +14,10 @@ Contribution may take the form of creative work, facilitation, stewardship, mone
 
 Membership rights are not purchased.
 
-Financial contribution does not confer additional creative rights, governance votes, priority, ownership, or status.
+Financial contribution does not confer Voting Membership, governance authority, additional creative rights, priority, ownership, or status.
+
+Participating Members may have meaningful influence through participation, consultation, proposals, and collaborative processes without holding a formal governance vote.
+
 
 ## 4. Organizational Capacity Carries Organizational Responsibility
 

@@ -36,7 +36,7 @@ An organization wishing to undertake covered Organizational Use must apply for a
 
 Publication of an application process, licensing terms, fee schedule, or eligibility criteria is an invitation to apply and does not constitute an offer that can be accepted merely by application or payment.
 
-No Sustaining Organization License exists until affirmatively issued by the authorized Commons body.
+No Sustaining Organization License exists until affirmatively approved through the governance process established in the Metachrysalis Commons GOVERNANCE.md and issued by a person or body authorized under that process.
 
 ## 4. Discretionary Approval
 
